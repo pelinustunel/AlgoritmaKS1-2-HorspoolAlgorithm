@@ -21,9 +21,9 @@ Horspool Algoritmasının çalışma zamanı, n metin dosyasının boyutunu ve m
 ## Uygulama
 
 Horspool algoritması kullanılarak alice_in_wonderland.txt dosyası içindeki _“upon, Dormouse, sigh, jury-box, swim”_ kelimelerinin kaç kez tekrar ettiğini bulduğumuz bir uygulamadır.
-Bu uygulamayı pratik bir şekilde çalıştırmak için:
+Bu uygulamayı çalıştırmak için:
 
-1. İlk olarak horspoolAlgoritması dosyasını indirmeniz gerekmektedir
+1. İlk olarak horspoolAlgoritması dosyasını indirmeniz gerekmektedir.
 2. horspoolAlgoritması dosyasını indirdikten sonra alice_wonderland_in.txt dosyasını bilgisayarınıza indirmelisiniz.
 3. horspoolAlgoritması dosyasının bilgisayarınızda olan IDE‘lerden biriyle açmanız gerekmektedir.
 4. Açılan Kodunuzda String fileName kısmına, alice_in_wonderland.txt dosyasının bilgisayarınızdaki dosya yolunu bulup yazmanız gerekmektedir.
