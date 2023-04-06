@@ -1,4 +1,4 @@
-                                                  # Horspool Algoritması
+# Horspool Algoritması
 
 ## Horspool Algoritmasının Amacı nedir ve Ne İçin Kullanılır?
 
